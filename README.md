@@ -3,6 +3,7 @@ So.... get the fuck off.
 
 ## 📚 main
 Scientic Computation: Space Weather Data Analysis and Numerical Simulation
+
 -> Data-Driven Space Weather Modeling: Solar & Plasma Data Training
 
 ## 🛠 Tech Stack 
