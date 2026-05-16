@@ -1,4 +1,3 @@
-README.md
 As an undergraduate, I am applying computing tools to Near-Earth Space Science as much as I possibly can.
 So.... get the fuck off.
 
